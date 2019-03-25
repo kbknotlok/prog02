@@ -156,6 +156,8 @@ class Customer {
             </head>";
         echo "
             <body>
+				<a href='https://github.com/kbknotlok/prog02' target='_blank'>Github</a><br />
+				<a href='http://csis.svsu.edu/~kbkovac/cis355/prog02/prog02_diagram' target='_blank'>Diagram</a><br />
                 <div class='container'>
                     <div class='span10 offset1'>
                         <p class='row'>
@@ -256,7 +258,8 @@ class Customer {
         echo "
             </head>
             <body>
-                <a href='https://github.com/kbknotlok' target='_blank'>Github</a><br />
+                <a href='https://github.com/kbknotlok/prog02' target='_blank'>Github</a><br />
+				<a href='http://csis.svsu.edu/~kbkovac/cis355/prog02/prog02_diagram' target='_blank'>Diagram</a><br />
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
